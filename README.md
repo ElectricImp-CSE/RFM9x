@@ -66,5 +66,3 @@ TX, FSRX, RXCONTINUOUS, RXSINGLE, and CAD. They should be passed to setMode as i
 - setFrequency(freq): this method sets the desired frequency for the chip. See the datasheet for specifics on which frequencies
 can be used
 
-
-- 
